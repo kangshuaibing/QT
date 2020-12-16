@@ -1,0 +1,12 @@
+{
+  "updates": {
+    "windows": {
+      "open-url": "",
+      "latest-version": "1.2.0",
+      "download-url": "http://127.0.0.1:8088/1.jpg",
+      "changelog": "This is an example changelog for Windows. Go on...",
+      "mandatory": true
+    },
+
+  }
+}
