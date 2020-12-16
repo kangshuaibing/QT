@@ -3,7 +3,7 @@
     "windows": {
       "open-url": "",
       "latest-version": "1.2.0",
-      "download-url": "https://github.com/kangshuaibing/QT/tree/master/0.jpg",
+      "download-url": "https://raw.githubusercontent.com/kangshuaibing/QT/master/0.jpg",
       "changelog": "ceshi",
       "mandatory-update": true
     },
