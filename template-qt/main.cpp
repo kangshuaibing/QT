@@ -17,7 +17,6 @@ static void initialize(); // 程序启动时进行初始化
 static void finalize();   // 程序结束时清理工作
 
 
-
 int main(int argc, char *argv[]) {
     // 启用 Retina 高分辨率
     QApplication::setAttribute(Qt::AA_UseHighDpiPixmaps);
