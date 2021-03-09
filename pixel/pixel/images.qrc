@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/box.icon</file>
+        <file>images/choose.png</file>
+        <file>images/circle.png</file>
+        <file>images/circle1.png</file>
+        <file>images/color.png</file>
+        <file>images/color1.png</file>
+        <file>images/erase.png</file>
+        <file>images/erase1.png</file>
+        <file>images/fullcircle.png</file>
+        <file>images/fullcircle1.png</file>
+        <file>images/fullrect.png</file>
+        <file>images/fullrect1.png</file>
+        <file>images/getcolor.png</file>
+        <file>images/getcolor1.png</file>
+        <file>images/grid.png</file>
+        <file>images/line.png</file>
+        <file>images/line1.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/pixel.png</file>
+        <file>images/pixel1.png</file>
+        <file>images/rect.png</file>
+        <file>images/rect1.png</file>
+        <file>images/redo.png</file>
+        <file>images/save.png</file>
+        <file>images/undo.png</file>
+        <file>button.cpp</file>
+        <file>button.h</file>
+        <file>colorbar.cpp</file>
+        <file>colorbar.h</file>
+        <file>colorwindow.cpp</file>
+        <file>colorwindow.h</file>
+        <file>main.cpp</file>
+        <file>newdialog.cpp</file>
+        <file>newdialog.h</file>
+        <file>paint.cpp</file>
+        <file>paint.h</file>
+        <file>pixel.cpp</file>
+        <file>pixel.h</file>
+        <file>savedialog.cpp</file>
+        <file>savedialog.h</file>
+    </qresource>
+</RCC>
